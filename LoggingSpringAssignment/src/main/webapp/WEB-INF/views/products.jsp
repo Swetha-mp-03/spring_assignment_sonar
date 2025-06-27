@@ -3,6 +3,7 @@
 <html lang="en" xml:lang="en">
 <head>
     <title>Product List</title>
+    <h1> Products</h1>
 </head>
 <body>
     <h1>Product List</h1>
